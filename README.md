@@ -12,6 +12,7 @@ Save Main.java in a folder.
 Open your terminal or command prompt, navigate to the folder, and run:
 
 javac Main.java
+
 java Main
 
 
