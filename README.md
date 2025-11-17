@@ -1,5 +1,17 @@
-# BeginnerJavaProject
-I have now been learning Java for a short while, and have made my first beginner java project. It is quite simple, (Since it is beginner friendly), it utilizes the Scanner class to collect User Input, it also utilizes if statements, logical operators, arrays and loops. There will be more projects to come soon!
+# BeginnerJavaProjects
+I have now been learning Java for a short while, and have made my first two beginner java project. They are quite simple - They utilize:
+
+- Scanner class
+- If, else and else If statements
+- Logical operators
+- For loops
+- While Loops
+- Methods
+- Arrays
+
+
+
+There will be more projects to come soon!
 
 Please feel free to tell me any improvements I can make.
 
@@ -11,9 +23,9 @@ Save Main.java in a folder.
 
 Open your terminal or command prompt, navigate to the folder, and run:
 
-javac Main.java
+javac NAMEOFJAVAPROJECTHERE.java
 
-java Main
+java NAMEOFJAVAPROJECTHERE
 
 
 Follow the prompts in the program to enter your subjects and grades.
