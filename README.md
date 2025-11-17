@@ -28,6 +28,8 @@ javac NAMEOFJAVAPROJECTHERE.java
 java NAMEOFJAVAPROJECTHERE
 
 
+# For the Grades Project
+
 Follow the prompts in the program to enter your subjects and grades.
 
 Notes
@@ -35,3 +37,6 @@ Notes
 The program supports up to 3 subjects for now.
 
 It prints all the grades at the end.
+
+# For the Banking App Project
+
