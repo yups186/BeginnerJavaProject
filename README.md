@@ -40,3 +40,17 @@ It prints all the grades at the end.
 
 # For the Banking App Project
 
+Follow the prompts in the program to either:
+
+- Find out your Balance
+- Deposit Money
+- Withdraw Money
+- Exit
+
+Notes
+
+Using deposit or withdraw will dynamically update the original Balance (with the exception of if Withdrawing exceeds the original Balance, that somehow breaks the Balance value, I will try to fix this as soon as possible.)
+
+Thank you for reading.
+  
+
