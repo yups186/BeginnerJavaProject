@@ -14,7 +14,7 @@ public class Main {
 
     while (true) {
 
-        System.out.println("*****************\nMACY BANKING CORP\n*****************");
+        System.out.println("*****************\nNINJA BANKING CORP\n*****************");
 
         System.out.println("1. Show Balance\n2. Deposit\n3. Withdraw\n4. Exit");
 
