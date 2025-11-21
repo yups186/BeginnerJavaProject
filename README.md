@@ -1,5 +1,5 @@
 # BeginnerJavaProjects
-I have now been learning Java for a short while, and have made my first two beginner java project. They are quite simple - They utilize:
+I have now been learning Java for a short while, and have made my first three beginner java projects. They are quite simple - They utilize:
 
 - Scanner class
 - If, else and else If statements
@@ -7,7 +7,7 @@ I have now been learning Java for a short while, and have made my first two begi
 - For loops
 - While Loops
 - Methods
-- Arrays
+- 1D Arrays (2D Arrays soon)
 
 
 
