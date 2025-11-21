@@ -65,7 +65,7 @@ I made this after watching a minute of a video about encoding V hashing V encryp
 
 Notes
 
-At the moment, only lower case letters, numbers and some common symbols are used, for next time, I will add upper case letters to further increase the strength of the password. It is also not really cryptographically secure, the Random class can be predictable, so for next time, I will use the SecureRandom class.
+At the moment, only lower case letters, numbers and some common symbols are used. For next time, I will add upper case letters to further increase the strength of the password. It is also not really cryptographically secure, the Random class can be predictable, so for next time, I will use the SecureRandom class.
 
 
 
