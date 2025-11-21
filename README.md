@@ -59,6 +59,16 @@ Notes
 
 Code is a bit messy, could probably try utilise 2D Arrays instead. At the moment, it does not take into account casing or white spaces, however I will add that to the code in a later commit.
 
+# For the Password Generator Project
+
+I made this after watching a minute of a video about encoding V hashing V encryption. It gave me a "Eureka" moment to try and make a password generator in Java, and it actually does work! It utilises the Random class to generate a unique number that can be paired to an index of the password array, that contains all the usable characters to make the password.
+
+Notes
+
+At the moment, only lower case letters, numbers and some common symbols are used, for next time, I will add upper case letters to further increase the strength of the password. It is also not really cryptographically secure, the Random class can be predictable, so for next time, I will use the SecureRandom class.
+
+
+
 Thank you for reading.
   
 
