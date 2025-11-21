@@ -51,6 +51,14 @@ Notes
 
 Using deposit or withdraw will dynamically update the original Balance (with the exception of if Withdrawing exceeds the original Balance, that somehow breaks the Balance value, I will try to fix this as soon as possible.)
 
+# For the Quiz Game Project
+
+Contains 3 questions with score tracking;
+
+Notes
+
+Code is a bit messy, could probably try utilise 2D Arrays instead. At the moment, it does not take into account casing or white spaces, however I will add that to the code in a later commit.
+
 Thank you for reading.
   
 
